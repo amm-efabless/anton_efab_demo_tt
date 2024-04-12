@@ -6,6 +6,10 @@ This displays "EFAB" on the 7-segment display of the TT demo board.
 
 - [Read the documentation for project](docs/info.md)
 
+## Updates
+
+* 2024-04-15: Fixed the widgets
+
 ## What is Tiny Tapeout?
 
 TinyTapeout is an educational project that aims to make it easier and cheaper than ever to get your digital designs manufactured on a real chip.
