@@ -1,6 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg)
 
-# Tiny Tapeout Wokwi Project Template
+# "EFAB Demo": A Tiny Tapeout Wokwi Project
+
+This displays "EFAB" on the 7-segment display of the TT demo board.
 
 - [Read the documentation for project](docs/info.md)
 
